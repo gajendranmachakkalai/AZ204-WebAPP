@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EmployeeWebApp/EmployeeApp/obj
+/EmployeeWebApp/EmployeeApp/bin
+/EmployeeWebApp/.vs/EmployeeWebApp
